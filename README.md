@@ -19,5 +19,5 @@ Please cite the above paper when using this code.
 
 ### Run
 ```
-./run_mtae_gpu.sh
+python multitaskAutoencoders.py
 ```
